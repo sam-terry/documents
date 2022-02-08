@@ -39,7 +39,6 @@ CONSONANTS (PULMONIC)
 
 
 
-
 CONSONANTS (NON-PULMONIC)                                                   VOWELS
 _________________________________________________                                         Front              Central              Back
 |   Clicks           |      Voiced implosives   |                           
@@ -55,11 +54,9 @@ _________________________________________________                               
 |                    |                          |                                                    \                   \          |
 | ǁ Alveolar lateral |   ʛ Uvular               |                                                   æ \                   ɐ         |
 |____________________|__________________________|                                                      \                   \        |
-                                                                            Open                      a ● ɶ --------------------- ɑ ● ɒ
+                                                                            Open                      a ● ɶ --------------------- ɑ ● ɒ 
 
-												Where symbols appear in pairs, the one to the right
-												represents a rounded vowel.
-
+											Where symbols appear in pairs, the one to the right represents a rounded vowel.
 
 OTHER SYMBOLS
 
@@ -82,3 +79,31 @@ w voiced labio-velar approximant	ɺ   Voiced alveolar lateral flap					ˈ Primar
 														. Syllable break
 
 														‿ Linking (absence of a break)
+
+DIACRITICS									
+
++--------------------+-----------------------+--------------------------|
+| ̥ Voiceless	n̥ d̥  | ̤ Breathy voiced	b̤ a̤  |  ̪ Dental		t̪ d̪	|						TONES AND WORD ACCENTS
+|--------------------+-----------------------+--------------------------|					LEVEL				CONTOUR
+| ̬ Voiced	s̬ t̬  | ̰ Creaky voiced	b̰ a̰  |  ̺ Apical		t̺ d̺	|					e̋ or ˥ Extra high		e	Rising
+|--------------------+-----------------------+--------------------------|					é or ˦ High			ê 	Falling
+| ʰ Aspirated	tʰ dʰ| ̼ Linguolabial	t̼ d̼  |  ̻ Laminal	t̻ d̻     |					ē or ˧ Mid			e᷄ 	High rising
+|--------------------+-----------------------+--------------------------|					è or ˨ Low			e᷅	Low rising
+| ̹ More rounded ɔ̹    |ʷ Labialized	tʷdʷ |  ̃ Nasalized	  ẽ	|					ȅ or ˩ Extra low		e᷈	Rising-falling
+|--------------------+-----------------------+--------------------------|					ꜜ      Downstep			↗	Global rise
+| ̜ Less rounded ɔ̜    |ʲ Palatized	tʲdʲ | ⁿ Nasal release    dⁿ    |					ꜛ      Upstep			↘	Global fall
+|--------------------+-----------------------+--------------------------|
+| ̟ Advanced     u̟    |ˠ Velarized       tˠdˠ | ˡ Lateral release  dˡ    |
+|--------------------+-----------------------+--------------------------|
+| ̠ Retracted    e̠    |ˤ Pharyngealized  tˤdˤ |  ̚ No audible release d̚   |  
+|--------------------+-----------------------+--------------------------|
+| ̈ Centralized  ë    | ̴ Velarized or pharyngealized	l̴		|
+|--------------------+--------------------------------------------------|
+| ̽ Mid-centralized e̽ |˔ Raised	e̝					|
+|--------------------+--------------------------------------------------|
+| ̩ Syllabic     n̩    |˕ Lowered e̞					|
+|--------------------+--------------------------------------------------|
+| ̯ Non-syllabic e̯    | ̘ Advanced tongue root	e̘			|
+|--------------------+--------------------------------------------------|
+| ˞ Rhoticity   ə˞   | ̙ Retracted tongue root	e̙			|
+------------------------------------------------------------------------|
